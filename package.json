@@ -1,0 +1,13 @@
+{
+  "name": "jai-club-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Daman results",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "node-fetch": "^3.3.2"
+  }
+}
